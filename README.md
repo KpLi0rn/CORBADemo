@@ -1,14 +1,12 @@
 # CORBADemo
-## CORBA DEMO 来源：https://www.secpulse.com/archives/139999.html
-
-CORBA 的 一个小 demo
-
 文章：（还在写ing
+
+## CORBA DEMO 来源：https://www.secpulse.com/archives/139999.html
 
 `orbd -ORBInitialPort 1050 -ORBInitialHost 127.0.0.1`
 
 ![01](./images/01.png)
-
+进入到 CORBA 目录下依次执行 HelloServer 和 HelloClient 
 ![02](./images/02.png)
 
 ![03](./images/03.png)
